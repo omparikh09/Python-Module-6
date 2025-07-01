@@ -1,0 +1,31 @@
+Q-3. Python operators: arithmetic, comparison, logical, bitwise.
+
+ans:
+    Operators :-
+        Python provides various operators to perform some operations between two operends
+
+        1. Arithmetic Operator :- 
+            Use for mathematical operations.
+            
+            Example :-
+                +(Addition), -(Subtration), *(Mulplication), /(Divition), %(Modules), **(Exponentiation), //(Flpor Divition)
+
+        2. Comparison Operator :- 
+            Used to compare values, returning True or False.
+
+            Example :-
+                ==, !=, >, <, >=, <=
+
+        3. Logical Operator :-
+            Used to combine conditional statements.
+
+            Example :- 
+                and :- Return true if both conditions are true 
+                or :- Retrun true if last one condition is true 
+                not :- Reverses the result
+
+        4. Bitwise Operator :- 
+            Used for binary operations.
+
+            Example :- 
+                &, |, ^, ~, >>, << 

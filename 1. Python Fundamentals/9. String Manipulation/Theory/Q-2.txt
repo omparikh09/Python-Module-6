@@ -1,0 +1,41 @@
+Q-2. Basic operations: concatenation, repetition,string methods(upper(), lower(), etc.).
+
+ans:
+    1. Concatenation :-
+        You can marge strings using (+).
+
+    2. Repetition :-
+        Repeat a string using (*).
+
+    3. String Methods :-
+        Python provides built-in methods for common operations.
+
+        1. Case Conversion :-
+            
+            s = "hello world"
+
+            print(s.upper())    String upper
+            print(s.lower())    String lower
+            print(s.title())    All each words first latters capitalize
+
+        2. Whitespace Removal :-
+
+            s = "  Python  "
+            
+            print(s.strip())    Remove all spaces 
+            print(s.lstrip())   Remove left spaces
+            print(s.rstrip())   Remove right spaces
+
+        3. Finding & Replacing :- 
+
+            s = "Hello, World!"
+            
+            print(s.replace("World", "Python"))  
+            print(s.find("World"))
+
+        4. Splitting & Joining :-
+
+            s = "Python is fun"
+            words = s.split()  
+            joined = "-".join(words)  
+            print(joined)

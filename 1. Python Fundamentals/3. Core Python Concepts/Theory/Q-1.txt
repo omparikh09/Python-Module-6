@@ -1,0 +1,29 @@
+Q-1. Understanding data types: integers, floats, strings, lists, tuples, dictionaries, sets.
+
+ans:
+    Which types of value store in a variable it's called data types.
+
+    1. Integers(int) :- 
+        Represents whole numbers, positive or negative, without decimals.
+
+    2. Floats(float) :- 
+        Represents real numbers or numbers with a fractional part.
+
+    3. String(str) :-
+        Represents a sequence of characters enclosed in single, double or triple quotes.
+
+    4. list :-
+        Represents an ordered, mutable collaction of items. Lists can hold different types 
+        of data(int, float, string, bool, etc.)
+
+    5. Tuple :- 
+        Represents an ordered, immutable collection of items. Once created, its elements cannot be changed.
+
+    6. Dictionaries(dict) :- 
+        Represents a collection of key-value pairs. Each key is unique, and the associated value can be any data type.
+
+    7. Set :- 
+        Represents an unordered collection of unique elements. Sets do not allows duplicate values.
+
+    8. Bool :- 
+        Represents boolean values, either True or False. Often used in conditional statements.

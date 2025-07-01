@@ -1,0 +1,19 @@
+Q-3. Understanding iterators and creating custom iterators.
+
+ans:
+    An iterator in Python is an object that allows sequential traversal through a collection of 
+    items, such as lists, tuples, and dictionaries.
+
+    Costom iterator types
+        1. __iter__() :- 
+            Returns the iterator object itself.
+
+        2. __next__() :- 
+            Returns the next item in the sequence or raises StopIteration when no more items are available.
+
+    1. Built-in Iterators :- 
+        Python provides built-in iterators for iterable objects like lists and strings:
+
+    2. Creating a Custom Iterator :-
+        To create a custom iterator, define a class that implements __iter__() and __next__().
+

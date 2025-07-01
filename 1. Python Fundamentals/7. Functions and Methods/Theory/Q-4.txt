@@ -1,0 +1,117 @@
+Q-4. Built-in methods forstrings, lists, etc.
+
+ans: 
+    Built-in methods for various data types, making operations easy and efficient.
+
+    1. String Methods :- 
+        
+        1. upper() :- 
+            Converts all latters in the string to upper case.
+
+        2. lower() :- 
+            Converts all latters in the string to lower case.
+
+        3. strip() :- 
+            Removes whitespace form the start & end.
+
+        4. replace() :- 
+            Replaces a specified part of the string.
+
+        5. find() :- 
+            Find the first index of a spacified character or substring.
+
+        6. split() :-
+            Split the string into a list of words.
+
+        7. startswith() :-
+            Checks if the string starts with a spacified prefix.
+
+        8. endswith() :-
+            Checks if the string ends with a specified suffix.
+
+        9. count() :- 
+            Counts how frequently a character or substring occurs.
+
+        10. capitalize() :-
+            converts first character to upper and rest to lower.
+
+        11. join() :-  
+            Joins a list of strings into a single string, with a specified separator between each element.
+
+        12. isdigit() :- 
+            Checks if all the character are digits.
+
+        13. isalpha() :- 
+            Checks if all the character are alphabets.
+
+        14. isalphanum() :- 
+            Checks if all the character are alphanumeric.
+
+        15. title() :-
+            Converts the first character of each word in the string to uppercase.
+
+        16. zfill() :-
+            Pads the string with zeros (0) on the left until the string reaches a specified length. 
+
+    2. List Methods :-
+        
+        1. append() :- 
+            Adds an element at the end of the list.
+        
+        2. insert() :- 
+            Insert an element at a spacified index.
+
+        3. extend() :- 
+            Add multiple elements to the end of the list.
+
+        4. remove() :- 
+            Remove the first occurrence of a value.
+
+        5. pop() :- 
+            Remove and return an element at a specific position.
+
+        6. clear() :- 
+            Remove all elements from the list.
+
+        7. index() :- 
+            Find the index of the first occurrence of an element.
+
+        8. count() :-
+            Count how many times an element appears in the list.
+
+        9. sort() :- 
+            Sort the list in ascending order.
+
+        10. reverse() :- 
+            Reverse the order of elements in the list.
+
+    3. Dictionary Methods :- 
+        
+        1. clear() :- 
+            Removes all items from the dictionary, leaving it empty.
+
+        2. copy() :- 
+            Returns a shallow copy of the dictionary. Modifying the copy does not affect the original dictionary.
+
+        3. get() :- 
+            Returns the value for a specified key. If the key is not found, it returns None.
+
+        4. items() :-
+            Returns a view object that displays a list of the dictionary's key-value tuple pairs.
+
+        5. keys() :-
+            Returns a view object that displays a list of all the dictionary's keys.
+
+        6. pop() :-
+            Removes the item with the specified key and returns its value. If the key is not found, 
+            it raises a KeyError.
+
+        7. popitem() :- 
+            Removes and returns the last inserted key-value pair as a tuple.
+
+        8. update() :-
+            Updates the dictionary with key-value pairs from another dictionary or iterable of key-value pairs. 
+            If the key already exists, its value is updated.
+
+        9. setdefault() :-
+            Returns the value of a key if it exists; if not, inserts the key with the specified value and returns the value.

@@ -1,0 +1,26 @@
+Q-1. How functional programming works in Python.
+
+ans:
+    Functional programming in python means writing code that focuses on functions.
+
+    1. Functions as First-class Citizens :-
+        You can assign functions to variables, pass them as arguments, or return them form another functions.
+
+    2. Higher-Order Functions :-
+        Functions that take other functions as arguments or return a function.
+    
+    3. Lambda Functions :-
+        Small, unnamed functions defined with lambda.
+
+    4. Immutable Operations :-
+        Functional style avoids changing or mutating existing data structures.
+
+    5. Other functions tools in python :-
+        1. filter() :- 
+            Lets you filter out items from a collection (like a list) that do not satisfy a condition.
+        
+        2. map() :-
+            Applies a function to all items in a collection and transforms them into a new collection.
+        
+        3. readuce() :-
+            Combines all elements of a collection into a single result, by applying a function repeatedly.

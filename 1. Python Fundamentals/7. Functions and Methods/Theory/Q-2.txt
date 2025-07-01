@@ -1,0 +1,12 @@
+Q-1. Function arguments (positional, keyword, default).
+
+ans:
+    1. Positional Arguments :- 
+        These are arguments passed to function in the correct order.
+        
+    2. Keyword Arguments :- 
+        With keyword arguments, you spacify parameters names, allowing arguments to be passed in any order.
+
+    3. Default Arguments :- 
+        Default arguments allow you to set a default value for a parameters. if no arguments is provided, 
+        default value is used.

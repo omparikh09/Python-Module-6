@@ -1,0 +1,27 @@
+Q-2. History and Evolution of Python.
+
+ans: 
+    Origins of Python :-
+        Created by Guido van Rossum in 1989 at Centrum Wiskunde & Informatica (CWI) in the Netherlands.
+        
+        - Named after the British comedy show Monty Python’s Flying Circus—not the snake!
+
+    Key Milestones :- 
+        1. 1991 :- First public release (Python 0.9.0) introduced core features like classes,
+            exception handling, and modules.
+
+        2. 1994 :- Python 1.0 added functional programming tools (lambda, map, filter, reduce).
+
+        3. 2000 :- Python 2.0 introduced list comprehensions, garbage collection, and Unicode support.
+
+        4. 2008 :- Python 3.0 was released, breaking backward compatibility to improve consistency and 
+            remove outdated features.
+
+        5. 2020 :- Official end-of-life for Python 2, making Python 3 the standard.
+
+    Modern Python :-
+        - Python is now dominant in web development, data science, AI, automation, and more.
+        
+        - Continues to evolve with new versions, improving performance and usability.
+        
+        - Used by major companies like Google, Facebook, Netflix, and NASA

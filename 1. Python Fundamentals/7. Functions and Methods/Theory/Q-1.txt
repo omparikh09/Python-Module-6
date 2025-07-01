@@ -1,0 +1,10 @@
+Q-1. Defining and calling functions in Python.
+
+ans: 
+    1. Defining a Function :-
+        You define a function using def keyword, followed by the function name and parentheses() containing optional 
+        parameters. Then, you write a inside the function's logic inside the indented block.
+
+    2. Calling a Function :- 
+        To execute the function, you call it by using its name and passing arguments if needed.
+        

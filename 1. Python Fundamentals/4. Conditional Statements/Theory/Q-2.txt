@@ -1,0 +1,43 @@
+Q-2. Nested if-else conditions.
+
+ans:    
+    A nested if-else statement is an if statement inside another if or else block. It allows
+    checking multiple condition in a hierarchical manner.
+
+    1. Nested if Statement :-
+        If the outer if condition is True, the inner if condition is checked.
+
+    Syntax :- 
+        if statement:
+            outer condition
+
+            if statement:
+                inner condition
+
+    2. Nested if-else Statement :-
+        If the outer if condition is True, the inner if-else block executes.
+
+    Syntax :- 
+        if statement:
+            outer if condition
+            if statement:
+                inner if condition
+            else statement:
+                inner if condition
+        else statement:
+            outer else condition 
+
+    3. Nested if-elif-else Statement :- 
+        Multiple conditions can be checked using elif inside nested blocks.
+
+    Syntax :- 
+        if statement:
+            outer if condition 
+            if statement:
+                inner if condition
+            elif statement:
+                another if condition
+            else:
+                inner else condition
+        else:
+            outer else condition

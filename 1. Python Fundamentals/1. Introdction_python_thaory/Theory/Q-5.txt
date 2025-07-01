@@ -1,0 +1,15 @@
+Q-5. Writing and executing your first Python program.
+
+ans:
+    1. Write Your First Python Program :-
+        print("Hello World!")
+
+    2. Save the File :- 
+        Save the file with a .py extension, for example:
+        first_program.py
+
+    3. Execute the Program :-
+        1. Open the tarminal or command prompt.
+
+        2. Run the program using:
+            python first_program.py

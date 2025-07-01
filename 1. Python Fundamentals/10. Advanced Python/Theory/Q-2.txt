@@ -1,0 +1,11 @@
+Q-2. Using map(), reduce(), and filter() functions for processing data.
+
+ans:
+    1. filter() :- 
+        Lets you filter out items from a collection (like a list) that do not satisfy a condition.
+        
+    2. map() :-
+        Applies a function to all items in a collection and transforms them into a new collection.
+        
+    3. readuce() :-
+        Combines all elements of a collection into a single result, by applying a function repeatedly.

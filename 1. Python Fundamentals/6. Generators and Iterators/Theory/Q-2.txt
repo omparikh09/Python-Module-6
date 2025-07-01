@@ -1,0 +1,14 @@
+Q-2. Difference between yield and return.
+
+ans:
+    1. Yield :-
+        -> Converts a function into a generator.
+        -> Can be called multiple times, resuming from the last state.
+        -> Efficient, as it generates values one at a time.
+        -> Ideal for iterators and large datasets.
+
+    2. Retrun :- 
+        -> Ends function execution and returns a value.
+        -> Runs once, then exits.
+        -> Stores all values in memory before returning.
+        -> Used for single value returns.

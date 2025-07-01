@@ -1,0 +1,18 @@
+Q-1. Understanding Python’s PEP 8 guidelines.
+
+ans:
+    Python Official style guide, PEP 8 (Python Enhancement Proposal 8), defines conventions for writing
+    clean and consistent Pyhton code.
+
+    1. Indentation :- 
+        Use 4 spaces per indentation level
+    
+    2. Maximum Line Length :- 
+        limit all lines to maximum of 79 characters(72 for Docstrings).
+    
+    3. Naming conventions :- 
+        Python has spacific conventions for naming veriable, functions, classes and modules.
+        These conventions help make code more readable and consistent.
+
+    4. Classes :- 
+        Use CamelCase(first latter capitalized, no underscores).

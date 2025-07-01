@@ -1,0 +1,15 @@
+Q-2. Python variables and memory allocation.
+
+ans:
+    Veriable is a name Which can store some values.
+
+    Memory Allocation :- 
+        Python manage memory automatically using Heap memory and Stack memory.
+
+        1. Heap Memory :- 
+            Python objects (like integers, strings, lists, etc.) are stored in the heap (dynamic memory).
+        
+        2. Stack Memory :- 
+            Local variables (such as function arguments) and function calls are managed in the stack.
+
+        

@@ -1,0 +1,13 @@
+Q-1. Understanding how generators work in Python.
+
+ans:
+    Generator is a special functions that return an iterator, allowing you to intrate over a values one at a time 
+    instead of storing them all in memory. 
+
+    How Generators Work :- 
+    
+    -> Generator function contain yield statements.
+
+    -> When called, they return a generator object.
+
+    -> Each call to next() resumes execution from the last yield.

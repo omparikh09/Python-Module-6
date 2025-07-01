@@ -1,0 +1,13 @@
+Q-1. Understanding the role of break, continue, and pass in Python loops.
+
+ans:
+    1. Break Statement :- 
+        Break statement is used to terminate the current loop entirely, even if the loop condition is still true.
+
+    2. Continue Statement :-
+        Continue statement is used to skip the rest of the current itration of the loop and move directly to the 
+        next itration.
+
+    3. Pass Statement :- 
+        The pass statement is a null operation in Python. It does nothing when executed. code is showing syntax error then 
+        use pass statement.  

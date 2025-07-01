@@ -1,0 +1,8 @@
+Q-2. How loops work in Python.
+
+ans:
+    1. For Loop :- 
+        Iterates over a sequence like a list, tuple, or range.
+
+    2. While Loop :-
+        While Loop: Runs as long as a condition remains true.

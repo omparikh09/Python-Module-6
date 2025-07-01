@@ -1,0 +1,13 @@
+Q-3. String slicing.
+
+ans:
+    String slicing allows you to extract spacific parts of a string using indexing.
+
+    1. Start :-
+        The index where the slice begins.
+
+    2. End :- 
+        The index where the slice ends.
+
+    3. Steps :-
+        The step value determines how many characters to skip. The default is 1.

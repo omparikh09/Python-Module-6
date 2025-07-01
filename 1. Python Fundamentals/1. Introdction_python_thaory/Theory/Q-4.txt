@@ -1,0 +1,34 @@
+Q-4. Installing Python and setting up the development environment (Anaconda, PyCharm, or VS Code).
+
+ans:
+    1. Installing Python :- 
+        1. Download Pyhton form Official website.
+        2. Run the installer and check the box for "Add Python to PATH"
+        3. Click Install Now and wait for the installation to complete.
+        4. Check the Install in your system using cmd command -> python --version
+
+    2. Setting Up Anaconda :-
+        Anaconda is great for data science and package management.
+            
+            1. Download Pyhton form Anaconda's website.
+            2. Install it and launch Anaconda Navigator.
+            3. Create a virtual environment:
+                -> conda create --name my_env python=3.9
+                -> conda activate my_env
+            4. Use Jupyter Notebook or Spyder for coding.
+
+    3. Setting Up PyCharm :-
+        PyCharm is a powerful IDE for Python development.
+            1. Download PyCharm from JetBrains.
+            2. Install and open PyCharm.
+            3. Set up a Python interpreter:
+                -> Go to File > Settings > Project > Python Interpreter.
+                -> Select the installed Python version or a virtual environment.
+    
+    4. Setting Up VS Code :-
+        VS Code is a lightweight and flexible editor.
+            1. Download VS Code from Microsoft.
+            2. Install the Python extension from the Extensions Marketplace.
+            3. Set up the Python interpreter:
+               -> Open Command Palette (Ctrl+Shift+P).
+               -> Search for Python: Select Interpreter and choose your Python version.

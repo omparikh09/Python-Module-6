@@ -1,0 +1,30 @@
+Q-3. Using loops with collections (lists, tuples, etc.).
+
+ans: 
+    You can loop through collaction like list, tuple, dictionaries and sets using for and while.
+
+    1. Looping Through Lists :- 
+        fruits = ["apple", "banana", "cherry"]
+        for fruit in fruits:
+            print(fruit)
+    
+    2. Looping Through Tuples :-
+        Tuples work similarly to lists.
+
+        colors = ("red", "green", "blue")
+        for color in colors:
+            print(color)
+    3. Looping Through Dictionaries :-
+        Use .items() to iterate over key-value pairs.
+
+        person = {"name": "Om", "age": 22}
+        for key, value in person.items():
+            print(f"{key}: {value}")
+
+    4. Looping Through Sets :- 
+        Sets are unordered, but you can iterate over them.
+
+        numbers = {1, 2, 3, 4}
+        for num in numbers:
+            print(num)
+

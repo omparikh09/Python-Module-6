@@ -1,0 +1,42 @@
+Q-2. Indentation, comments, and naming conventions in Python.
+
+ans:
+    1. Indentation :-
+        Use 4 spaces per indentation level.
+
+    2. Comments :-
+        Comments helps explain code and improve readability.
+        
+        1. Single-line comments :- 
+            Use (#) before the comment.
+
+        2. Multiline comments :- 
+            Use triple quotes(""" """ or ''' ''').
+
+        3. Docstrings: Used for documenting functions and classes.
+
+    3. Naming conventions :-
+        PEP 8 defines standard naming styles
+            
+            1. Veriable & Functions :- 
+                Use snake_case.
+
+                Example :- 
+                    user_name = "Om"
+                    def get_user():
+                        pass
+
+
+            2. Classes :- 
+                Use CamelCase.
+
+                Example :-
+                    class UserProfile:
+                        pass
+
+
+            3. Constants: 
+                Use UPPER_CASE.
+                
+                Example :-
+                    MAX_LIMIT = 100

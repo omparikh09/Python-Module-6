@@ -1,0 +1,17 @@
+Q-1. Scope of variables in Python.
+
+ans: 
+    Variable scope determines where a variable can be accessed or modified within a program.
+
+    1. Local Scope (Inside a Function) :- 
+        Variables defined inside a function are local to that function and cannot be accessed outside.
+
+    2. Enclosing Scope (Nested Functions) :- 
+        If a function is inside another function, it can access variables from the outer (enclosing) function.
+
+    3. Global Scope (Accessible Everywhere) :- 
+        Variables defined outside any function belong to the global scope, making them accessible throughout the script.
+
+    4. Built-in Scope (Predefined Names) :- 
+        Python has built-in functions like print(), len(), and sum(), which belong to the built-in scope and are 
+        always available.

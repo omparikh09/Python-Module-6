@@ -1,0 +1,9 @@
+Q-3. Introduction to closures and decorators.
+
+ans:
+    1. Closures :-
+        A closures are work as a outer and inner function first outer function is complete execution then after execute 
+        inner function.
+
+    2. Decorators :-
+        A decorators is a function that take another function as argument and modifies its behavior.

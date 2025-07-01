@@ -1,0 +1,32 @@
+Q-1. Introduction to Python and its Features (simple, high-level, interpreted language).
+
+ans:
+1. Introduction to Python :-
+    Python is a popular, high-level programming language created by Guido van Rossum and first released in 1991.
+    It is known for its simplicity, readability, and versatility, making it ideal for beginners and professionals like.
+
+    Python is used in many domains such as:
+        1> Web development
+        2> Data science
+        3> Machine learning
+        4> Automation
+        5> Game development
+        6> Desktop applications
+
+2. Key Features of Python :- 
+    1. Simple and Easy to Learn :-
+        Python has a clean and readable syntax, making it easy to write and understand code.
+    
+    2. High-Level Language :-
+        Python allows you to focus on the logic of the program rather than worrying about low-level details like 
+        memory management.
+
+    3. Interpreted Language :-
+        Python code is executed line-by-line by the Python interpreter, which makes debugging and testing easier.
+
+    4. Open Source and Free :-
+        Python is free to use and distribute—even for commercial purposes.
+
+    6. Extensive Standard Library :-
+        Python includes a large library of modules and functions for handling various tasks 
+        like math, file I/O, and web services.
